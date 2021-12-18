@@ -1,0 +1,126 @@
+body {
+    background-color: #f1f1f1;
+}
+
+.fon {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100px;
+}
+
+/* расположение всего логотипа*/
+.container {
+    position: absolute;
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100px;
+    left: 0;
+    top: 0;
+}
+
+/* стили ссылок */
+.soc {
+    line-height: 3px;
+} 
+
+.soc a {
+    color: rgb(5, 8, 206);
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 14px;
+}
+
+.linux a {
+    color: rgb(5, 8, 206);
+    text-decoration: none;
+    font-weight: 900;
+}
+
+h4 {
+    text-decoration: underline;
+}
+
+/* Стили для текста логотипа*/
+.text-block {
+    position: absolute;
+    top: 6px;
+    bottom: 8px;
+    left: 90px;
+    right: 90px;
+    font-size: 20px;
+    font-weight: 700;
+    font-style: italic;
+    color: rgb(250, 214, 124);
+    text-align: center;
+}
+
+.logo {
+    margin: 0px;
+    width: 120px;
+    border-radius: 50px;
+    box-shadow: 4px 4px 14px black;
+     }
+
+.logo1 {
+    padding: 15px 0px;
+    margin-bottom: 20px;
+    margin-top: 120px;
+    margin-left: 50px;
+    margin-right: 10px;
+    border-radius: 30px;
+}
+
+.text {
+    color: #000;
+    margin: 0px;
+    padding-left: 20px;
+    padding-top: 10px;
+    line-height: 1px;
+}
+
+.soc {
+    margin-left: 50px;
+}
+
+.info_linux {
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.info_linux p {
+    font-style: italic;
+    font-size: 16px;
+    text-align: center;
+    padding-top: 13px;
+}
+
+.bg-yellow {
+    background: #f5f0d5;
+    width: 100%px;
+    height: 100px;
+}
+
+.bg-green {
+    background: #e5ffe7;
+    width: 100%;
+    padding-bottom: 1px;
+    margin-top: 10px;
+}
+
+.linux {
+    margin-left: 0px;
+    line-height: 5px;
+}
+ .linux1 p {
+     line-height: 18px;
+     padding-top: 5px;
+     font-style: italic;
+     font-size: 17px;
+ }
+
+ .emacs {
+     width: 400px;
+}
